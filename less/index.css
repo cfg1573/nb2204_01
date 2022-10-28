@@ -15,3 +15,9 @@ h1:nth-of-type(7) {
   font-size: 40px;
   padding: 5px 0;
 }
+.m1 {
+  background-color: #0af002;
+  color: white;
+  font-size: 40px;
+  padding: 5px 0;
+}
